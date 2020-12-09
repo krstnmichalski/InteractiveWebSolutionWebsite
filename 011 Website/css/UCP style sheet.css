@@ -1,0 +1,113 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 50px;
+  font-family: 'Montserrat' !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat' !important;
+}
+p, div {
+  font-family: 'Montserrat' !important;
+}
+.navbar-brand{
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  height: 50px;
+  padding-right: 15px;
+  padding-left: 5px;
+}
+
+.main-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.course-text{
+  font-size: 67%;
+  font-weight: bold;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
+.button-color {
+  color: #005c6e;
+  background-color: #b2dddf; /* light teal */
+}
+
+.text-color {
+  color: #005c6e;
+}
+.img-bg{
+  background-color: #b2dddf; /* light teal */
+}
+
+ul{
+  line-height: 1.6;
+}
+.img3{
+  height: auto;
+  display: block;
+  width: 25%;
+  margin-right: 150%;
+}
+
+.img2{
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 58%;
+  
+}
+.center2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 56%;
+  
+}
+
+.center3{
+  margin-left: auto;
+  margin-right: auto;
+  width: 56%;
+  
+}
+
+.center4{
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+.center5{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.indent{
+  text-indent: 18px;
+  
+}
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
